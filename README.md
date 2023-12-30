@@ -6,7 +6,7 @@ A Fully Responsive Website Blog Website, where it consists of different articles
 
 ## Pinterest UI Design
 ![UI Design](https://github.com/VHSSatyendra/blog-landing-2023/assets/97599977/c01ae043-c77a-4cee-95b3-3b70231cda45)
-### [Design from Behance](https://in.pinterest.com/pin/1097119159210133287/)
+### [Design from Pinterest](https://in.pinterest.com/pin/1097119159210133287/)
 
 ## Steps to run
 
